@@ -22,8 +22,9 @@ Built with **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🖼️ Preview
-(Add a screenshot or GIF of the Drum Kit here once ready)
+## 🖼️ Screenshot
+![Drum Kit Screenshot](images/drum-kit-screenshot.png)  
+*(Replace the path with your screenshot image file in your repo)*
 
 ---
 
