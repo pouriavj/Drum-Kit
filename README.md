@@ -28,6 +28,13 @@ Built with **HTML, CSS, and JavaScript**.
 
 ---
 
+## 🔗 Live Demo
+Check out the live demo here:  
+[Drum Kit Live Demo](https://pouriavj.github.io/your-repo-name/)  
+*(Replace with your actual GitHub Pages link)*
+
+---
+
 ## 🛠️ Built With
 - **HTML5**
 - **CSS3**
