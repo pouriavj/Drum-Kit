@@ -24,7 +24,7 @@ Built with **HTML, CSS, and JavaScript**.
 
 ## 🖼️ Screenshot
 ![Drum Kit Screenshot](images/drum-kit-screenshot.png)  
-*(Replace the path with your screenshot image file in your repo)*
+
 
 ---
 
