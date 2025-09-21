@@ -23,7 +23,7 @@ Built with **HTML, CSS, and JavaScript**.
 ---
 
 ## 🖼️ Screenshot
-![Drum Kit Screenshot](images/drum-kit-screenshot.png)  
+![Drum Kit Screenshot](/drumKit-screenshot.jpg)  
 
 
 ---
